@@ -1,5 +1,5 @@
 # TD-CamTrack
-Touchdesigner OSC-ARKit-to-virtual-camera tool
+Real-time Touchdesigner OSC-ARKit-to-virtual-camera tool
 
 Designed for virtual production environments, interactive experiences, VFX and mixed reality.
 
@@ -8,5 +8,10 @@ To use this, download the latest release from the Releases page. Install any ARK
 This component includes a basic UI that displays the phone's position and orientation relative to the virtual scene as well as the live data feed. 
 It also provides adjustable parameters, such as camera stabilization and motion scaling.
 
+![Alt Text](screenshots/Screenshot 2026-04-20 155552.png)
+
+![Alt Text](screenshots/Screenshot 2026-04-20 155912.png)
 
 Built & Tested using iPhone 12 Pro & ZIG SIM PRO.
+
+![Alt Text](screenshots/Screenshot 2026-04-20 165450.png)
