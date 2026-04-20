@@ -10,8 +10,8 @@ It also provides adjustable parameters, such as camera stabilization and motion 
 
 <img width="1129" height="364" alt="Screenshot 2026-04-20 155552" src="https://github.com/user-attachments/assets/1e13fc44-af6a-4fde-9355-b6aef3b9370d" />
 
-<img width="786" height="1327" alt="Screenshot 2026-04-20 155912" src="https://github.com/user-attachments/assets/d26490ca-0140-4c49-aa45-91755c9a8b52" />
+<img width="2142" height="924" alt="Screenshot 2026-04-20 170154" src="https://github.com/user-attachments/assets/3c6d5290-9d7c-469d-aa1d-4f40dc8d793e" />
+
+<img width="2493" height="1261" alt="Screenshot 2026-04-20 170303" src="https://github.com/user-attachments/assets/ac042d18-acf5-46da-be80-0c74f2c7e7c7" />
 
 Built & Tested using iPhone 12 Pro & ZIG SIM PRO.
-
-<img width="2559" height="1296" alt="Screenshot 2026-04-20 165450" src="https://github.com/user-attachments/assets/37081399-76a8-4cc9-9c1c-9591deaef765" />
