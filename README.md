@@ -8,10 +8,10 @@ To use this, download the latest release from the Releases page. Install any ARK
 This component includes a basic UI that displays the phone's position and orientation relative to the virtual scene as well as the live data feed. 
 It also provides adjustable parameters, such as camera stabilization and motion scaling.
 
-![Alt Text](screenshots/Screenshot 2026-04-20 155552.png)
+<img width="1129" height="364" alt="Screenshot 2026-04-20 155552" src="https://github.com/user-attachments/assets/1e13fc44-af6a-4fde-9355-b6aef3b9370d" /><img width="786" height="1327" alt="Screenshot 2026-04-20 155912" src="https://github.com/user-attachments/assets/d26490ca-0140-4c49-aa45-91755c9a8b52" />
 
-![Alt Text](screenshots/Screenshot 2026-04-20 155912.png)
+![Uploading Screenshot 2026-04-20 155912.png…]()
 
 Built & Tested using iPhone 12 Pro & ZIG SIM PRO.
 
-![Alt Text](screenshots/Screenshot 2026-04-20 165450.png)
+<img width="2559" height="1296" alt="Screenshot 2026-04-20 165450" src="https://github.com/user-attachments/assets/37081399-76a8-4cc9-9c1c-9591deaef765" />
